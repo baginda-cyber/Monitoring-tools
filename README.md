@@ -43,7 +43,7 @@ using command: docker-compose up -d
 - Blackbox Exporter: Used to monitor the availability and performance of endpoints.
 
 
-
+--------------------------KUBERNETES---------------------------
 
 Setup Instructions to Deploy on server using Kubernetes
 
